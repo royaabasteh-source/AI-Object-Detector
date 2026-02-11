@@ -1,8 +1,7 @@
 # AI-Object-Detector
 Here is a clean and professional `README.md` file for your GitHub repository. Since I cannot see the internal class names of your private model link, I’ve used placeholders where you can list the items you've trained it to recognize.
 
----<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/858bc6e9-31af-4300-9eca-5d66cca7e0f9" />
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1fa7714-3dca-4ff5-82bf-61ef65e2cbae" />
 
 # Custom AI Image Classifier
 
