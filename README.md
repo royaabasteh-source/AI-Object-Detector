@@ -2,6 +2,7 @@
 Here is a clean and professional `README.md` file for your GitHub repository. Since I cannot see the internal class names of your private model link, I’ve used placeholders where you can list the items you've trained it to recognize.
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1fa7714-3dca-4ff5-82bf-61ef65e2cbae" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/117b37ad-74db-4b11-95ed-577a80db9c8a" />
 
 # Custom AI Image Classifier
 
